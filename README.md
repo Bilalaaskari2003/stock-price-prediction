@@ -104,15 +104,16 @@ Metrics used:
 
 ## 📈 Key Results
 
-MODEL COMPARISON (Test Set)
-============================================================
-      Linear Regression  Random Forest
-RMSE           3.369849      33.929822
-MAE            2.637773      31.396276
-R2             0.933530      -5.738622
-MAPE           1.180650      13.690334
+### Model Performance (Sample Results)
 
-*(Actual values will vary based on stock selection and time period)*
+| Metric | Linear Regression | Random Forest |
+|--------|------------------|---------------|
+| RMSE   | $3.36            | $33.92         |
+| MAE    | $2.63            | $31.39         |
+| R²     | 0.93              | -5.73        |
+| MAPE   | 1.18%            | 13.69%         |
+
+**(Actual values will vary based on stock selection and time period)**.
 
 ### Key Insights
 
