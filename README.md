@@ -104,14 +104,13 @@ Metrics used:
 
 ## 📈 Key Results
 
-### Model Performance (Sample Results)
-
-| Metric | Linear Regression | Random Forest |
-|--------|------------------|---------------|
-| RMSE   | $X.XX            | $X.XX         |
-| MAE    | $X.XX            | $X.XX         |
-| R²     | 0.XXXX           | 0.XXXX        |
-| MAPE   | X.XX%            | X.XX%         |
+MODEL COMPARISON (Test Set)
+============================================================
+      Linear Regression  Random Forest
+RMSE           3.369849      33.929822
+MAE            2.637773      31.396276
+R2             0.933530      -5.738622
+MAPE           1.180650      13.690334
 
 *(Actual values will vary based on stock selection and time period)*
 
